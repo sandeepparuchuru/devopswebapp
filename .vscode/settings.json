@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a165f6d2-4b47-40b5-b450-cc9f35b0960d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/VenkatAzuredevopsCourse",
+    "appService.deploySubpath": "Publish"
+}
